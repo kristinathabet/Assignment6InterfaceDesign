@@ -10,6 +10,7 @@ The prototype was created using Figma, a browser generally used for prototyping 
 The purpose of this interactive prototype is to have a clear visualization of the proposed tasks users will complete and to ensure the interaction flow of the wireframes is logical and clear for the user. It is also a way to analyze if the graphic and visual components of the app are compatible with the information presented. This prototype is designed to be tested by prospective users before spending large sums of money developing the app. 
 
 ### Wireframe
+<img width="918" alt="Screen Shot 2021-11-11 at 3 28 44 PM" src="https://user-images.githubusercontent.com/91553084/141384342-22043610-628d-42d9-9d90-20aceed3aefa.png">
 
 The link to the prototype tool page can be found [here](https://www.figma.com/file/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=0%3A1)
 
