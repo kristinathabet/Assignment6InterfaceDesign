@@ -9,5 +9,20 @@ The prototype was created using Figma, a browser generally used for prototyping 
 ### Purpose
 The purpose of this interactive prototype is to have a clear visualization of the proposed tasks users will complete and to ensure the interaction flow of the wireframes is logical and clear for the user. It is also a way to analyze if the graphic and visual components of the app are compatible with the information presented. This prototype is designed to be tested by prospective users before spending large sums of money developing the app. 
 
+### Wireframe
+
 The link to the prototype tool page can be found here
+
+## Typographic Variations (3)
+## Shape Variations (3)
+## Color Scheme Variations (2)
+## Color Contrast Check
+
+## Layout Test Evidence
+
+## Impression Test
+The video recording to the impression test can be found here.
+### Summary of Findings
+
+## Summary of graphic design and my personal choices
 
