@@ -12,6 +12,9 @@ The purpose of this interactive prototype is to have a clear visualization of th
 ### Wireframe
 <img width="918" alt="Screen Shot 2021-11-11 at 3 28 44 PM" src="https://user-images.githubusercontent.com/91553084/141384342-22043610-628d-42d9-9d90-20aceed3aefa.png">
 
+### Wireflow
+<img width="897" alt="Screen Shot 2021-11-11 at 3 40 09 PM" src="https://user-images.githubusercontent.com/91553084/141384397-e1efefb9-d138-4fe0-8a6d-1f8c736c5f00.png">
+
 The link to the prototype tool page can be found [here](https://www.figma.com/file/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=0%3A1)
 
 ## Typographic Variations (3)
