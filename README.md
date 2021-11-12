@@ -24,7 +24,8 @@ After assessing all three of these typographic variations, I decided that the Ro
 ## Shape Variations (3)
 <img width="691" alt="Screen Shot 2021-11-11 at 4 21 28 PM" src="https://user-images.githubusercontent.com/91553084/141387629-8d957101-2215-4dd5-9e6f-2c7ed67d7214.png">
 The overall look and feel of the screen that is most harmonious with the contents of my application is the variation on the right. The rounded edges are most appropriate for a button feature because it implies a need to click on something. The border around the button also differentiates buttons from other shapes that have rounded edges, demising confusion about what is a button and what is not. Having the text centered on the button also makes the most sense visually.
-The shape variation that is most harmoneous with 
+
+
 ## Color Scheme Variations (2)
 ## Color Contrast Check
 
