@@ -18,6 +18,8 @@ The purpose of this interactive prototype is to have a clear visualization of th
 The link to the prototype tool page can be found [here](https://www.figma.com/file/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=0%3A1)
 
 ## Typographic Variations (3)
+<img width="504" alt="Screen Shot 2021-11-11 at 4 02 40 PM" src="https://user-images.githubusercontent.com/91553084/141386190-43f12917-2aed-4a18-a146-3ef98accfaf0.png">
+
 ## Shape Variations (3)
 ## Color Scheme Variations (2)
 ## Color Contrast Check
