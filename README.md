@@ -41,6 +41,7 @@ I decided to stick with colors that can be applicable to any informative website
 <img width="698" alt="Screen Shot 2021-11-11 at 5 31 30 PM" src="https://user-images.githubusercontent.com/91553084/141393421-3e1840e2-6f9f-4e2d-8302-a298fd02690a.png">
 
 ## Layout Test Evidence
+<img width="259" alt="Screen Shot 2021-11-11 at 5 38 50 PM" src="https://user-images.githubusercontent.com/91553084/141394015-71a1204e-c4a9-45d2-84e1-f6f3bf6ed1aa.png">
 
 ## Impression Test
 The video recording to the impression test can be found here.
