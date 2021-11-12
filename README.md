@@ -45,20 +45,20 @@ I decided to stick with colors that can be applicable to any informative website
 
 ## Design system documentation
 #### Typography
-Font Family: Roboto
-Title font size: 36
-Button font size: 30/ 24 depending on length of the sentence. 
-Steps(Step 1, Step 2, Visit Step 3)Button Size: 20
+* Font Family: Roboto
+* Title font size: 36
+* Button font size: 30/ 24 depending on length of the sentence. 
+* Steps(Step 1, Step 2, Visit Step 3)Button Size: 20
 
 #### Color scheme
-Background Color: Dark Blue (29557E)
-Button Color: Baby Blue (8AB9F1)
-Font color: White
-Icon Color: Black 
+* Background Color: Dark Blue (29557E)
+* Button Color: Baby Blue (8AB9F1)
+* Font color: White
+* Icon Color: Black 
 #### Layout 
-Grid: 5 rows and 5 columns
-Spacing: Letter spacing at 0%
-Line Height: On auto- 19
+* Grid: 5 rows and 5 columns
+* Spacing: Letter spacing at 0%
+* Line Height: On auto- 19
 
 ## Impression Test
 The video recording to the impression test can be found here.
