@@ -27,7 +27,7 @@ The overall look and feel of the screen that is most harmonious with the content
 
 
 ## Color Scheme Variations (2)
-<img width="462" alt="Screen Shot 2021-11-11 at 5 03 41 PM" src="https://user-images.githubusercontent.com/91553084/141391090-e483c4dd-b949-4e61-8c86-ad29d4dc5c35.png">
+<img width="494" alt="Screen Shot 2021-11-11 at 5 22 17 PM" src="https://user-images.githubusercontent.com/91553084/141392737-307b6e2a-89c4-4d2b-8c34-a01e21c2287e.png">
 
 I decided to stick with colors that can be applicable to any informative website dealing with driver's license paperwork. The beige color scheme variation looked a little bit outdated and not fitting for an app that is completing DMV tasks. The dark blue color scheme is very clean, easy to read, and neutral enough to be applicable to DMV tasks. 
 
