@@ -61,7 +61,7 @@ I decided to stick with colors that can be applicable to any informative website
 * Line Height: On auto- 19
 
 ## Impression Test
-The video recording to the impression test can be found here.
+The video recording to the impression test can be found [here](https://youtu.be/RyqJ8q0Xu-U)
 ### Summary of Findings
 
 ## Summary of graphic design and my personal choices
