@@ -22,6 +22,9 @@ The link to the prototype tool page can be found [here](https://www.figma.com/fi
 
 After assessing all three of these typographic variations, I decided that the Roboto white font is most appropriate for my application. The botton font size is 24 and the title font size is 30 and bolded. The white font makes the application seem less harsh compared to the black and caps lock font. The white typography contrasts nicely with the muted blue background, making the words easy to read and still visually plerasing to look at. Although I do believe that the all caps lock font is clearer to read, it comes off as slightly aggressive and unfitting for the purpose of this high-fidelity prototype.
 ## Shape Variations (3)
+<img width="691" alt="Screen Shot 2021-11-11 at 4 21 28 PM" src="https://user-images.githubusercontent.com/91553084/141387629-8d957101-2215-4dd5-9e6f-2c7ed67d7214.png">
+
+The shape variation that is most harmoneous with 
 ## Color Scheme Variations (2)
 ## Color Contrast Check
 
