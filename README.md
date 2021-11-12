@@ -67,6 +67,7 @@ Liza Strong: November 11th, 2021
 * "There is not that many words on it, it's very minimalistic and clear.)
 * "I like the neutral tones it is very fitting for this purpose"
 * " The words are a little small but I feel like its just becuase you need all this information on the page"
+
 The video recording to the impression test can be found [here](https://youtu.be/RyqJ8q0Xu-U)
 
 ### Summary of Findings
