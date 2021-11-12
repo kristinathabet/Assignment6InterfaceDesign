@@ -38,6 +38,8 @@ I decided to stick with colors that can be applicable to any informative website
 
 <img width="605" alt="Screen Shot 2021-11-11 at 5 15 30 PM" src="https://user-images.githubusercontent.com/91553084/141392991-ef601a2f-609e-4fe3-973a-f46aa747e911.png">
 
+<img width="698" alt="Screen Shot 2021-11-11 at 5 31 30 PM" src="https://user-images.githubusercontent.com/91553084/141393421-3e1840e2-6f9f-4e2d-8302-a298fd02690a.png">
+
 ## Layout Test Evidence
 
 ## Impression Test
