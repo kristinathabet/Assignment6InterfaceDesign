@@ -34,6 +34,8 @@ I decided to stick with colors that can be applicable to any informative website
 ## Color Contrast Check
 <img width="616" alt="Screen Shot 2021-11-11 at 5 14 01 PM" src="https://user-images.githubusercontent.com/91553084/141392901-15acd415-52ea-48a6-9132-0d01e66e2b7c.png">
 
+<img width="623" alt="Screen Shot 2021-11-11 at 5 15 13 PM" src="https://user-images.githubusercontent.com/91553084/141392952-1a2e4d17-e22f-41a0-a6e7-b6e9f9387bc5.png">
+
 ## Layout Test Evidence
 
 ## Impression Test
