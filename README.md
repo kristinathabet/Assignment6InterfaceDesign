@@ -61,8 +61,16 @@ I decided to stick with colors that can be applicable to any informative website
 * Line Height: On auto- 19
 
 ## Impression Test
+Liza Strong: November 11th, 2021 
+
+* First Impression: "Very neutral colors and easy to read and follow"
+* "There is not that many words on it, it's very minimalistic and clear.)
+* "I like the neutral tones it is very fitting for this purpose"
+* " The words are a little small but I feel like its just becuase you need all this information on the page"
 The video recording to the impression test can be found [here](https://youtu.be/RyqJ8q0Xu-U)
+
 ### Summary of Findings
+This High-Fidelity prototype testing was very useful for me to test multiple different design variations and decide on one that is most fitting for my application. Running the color contrast check aided me in choosing colors that look clean and complement each other well. My participant for the impression test was able to easily make it through my prototype with little assistance, proving that it is intuitive and easy to navigate. Throughout this project, I have adjusted the typeface, shapes, and colors mulitpe times to find something I am confident in. After conducting this impression test, I have decided to alter some of my text size and spacing to make it even easier to read. I will also incorporate more icons to improve users experience as much as possible. 
 
 ## Summary of graphic design and my personal choices
-
+I personally chose to go with a dark mode theme because it is easy on the eyes, and works very well with white text. I was deciding between a font that was all caps lock and one that wasn't; Although the caps lock font was more visually pleasing, it seemed to aggressive for a DMV website. My biggest goal for this high fidelity prototype was to create something non-overwehmling and easy to look at. Often times, government websites contain so much information that is impossible to cleanly condense into clean graphic design, so I tried my best to combat this issue. Each and every page has a home button, question button, and back button, making it easy for users to escape a page or redirect themselves to a more appropriate one. 
